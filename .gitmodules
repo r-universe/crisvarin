@@ -8,3 +8,6 @@
 [submodule "lacm"]
 	path = lacm
 	url = https://github.com/cran/lacm
+[submodule "metaLik"]
+	path = metaLik
+	url = https://github.com/cran/metaLik
